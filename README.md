@@ -7,3 +7,5 @@ The main objective is to show how Data is uploaded to the various cloud services
 AWS using ESP32 with the Arduino IDE.
 
 There is also code added, on using in the real time clock , bluetooth and SD card modules.
+
+128*64 Graphic LCD display with the U8glib;
