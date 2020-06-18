@@ -1,4 +1,4 @@
-#ESP32-Arduino
+#ESP32
 
 
 This repository will give you an insight on the  I2c based communication protocol (using the WIRE library) from the bq34z100 integrated circuit to the ESP32 , giving us the battery parameters.
